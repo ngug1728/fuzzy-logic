@@ -1,1 +1,4 @@
-export default function Logistic()
+const root = ReactDOM.createRoot(document.getElementById('root'))
+export default function Logistic(){
+
+}
